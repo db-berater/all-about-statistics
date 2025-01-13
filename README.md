@@ -1,4 +1,5 @@
-# session - all about statistics
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.db-berater.de/wp-content/uploads/2015/03/db-berater-gmbh-logo.jpg" height="100" /></a>
+# Session - All about Statistics
 This repository contains all codes for my Workshop/Session "All about Statistics" which deals with several demos to understand statistics in Microsoft SQL Server.
 All scripts are created for the use of Microsoft SQL Server (Version 2016 or higher)
 To work with the scripts it is required to have the workshop database [ERP_Demo](https://www.db-berater.de/downloads/ERP_DEMO_2012.BAK) installed on your SQL Server Instance.
